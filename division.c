@@ -14,6 +14,6 @@ int main()
       return 0;
     }  
     c = a / b;
-    printf("Division of 2 number: %d", c);
+    printf("Division of 2 numbers: %d", c);
     return 0;
 }
